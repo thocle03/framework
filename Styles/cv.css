@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+}
+
+.navbar-liste {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar-liste-li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#profil {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.profil-info {
+  margin-right: 40px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.presentation {
+  color: white;
+  background-color: #333;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.presentation-title{
+  margin-left: 350px;
+}
+
+.presentation-liste {
+  margin-left: 350px;
+}
+
+.experiencetitle {
+  padding-top: 40px;
+  padding-left: 350px;
+}
+
+.exp1 {
+  padding-left: 350px;
+  padding-bottom: 40px;;
+}
+
+.formations {
+  background-color: #333;
+  padding-bottom: 40px;
+}
+
+.formationtitle {
+  padding-top: 40px;
+  padding-left: 350px;
+  color: white
+}
+
+.form1 {
+  padding-left: 350px;
+  color: white
+}
+
+.passionstitle {
+  padding-top: 40px;
+  padding-left: 350px;
+}
+
+.passions1 {
+  padding-left: 350px;
+  padding-bottom: 40px;
+}
+
+.bahlefooterquoi {
+  background-color: #333;
+  display: flex;
+}
+
+.voyagetech {
+  color: white;
+  width: 300px;
+}
+
+.socials {
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+

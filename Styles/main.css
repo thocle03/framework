@@ -1,0 +1,52 @@
+.text-1{
+    background-color: blue;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-2{
+    background-color: red;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-3{
+    background-color: green;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text-4{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+.bold
+{
+    font-weight: bold;
+}
+.italic
+{
+    font-style: italic;
+}
+.normal
+{
+    font-style: normal;
+}
+.souligne
+{
+    text-decoration: underline;
+}
+.text-align-center
+{
+    text-align : center;
+}
+.text-align-left
+{
+    text-align : left;
+}
+.text-align-right
+{
+    text-align : right;
+}
+.text-align-justify
+{
+text-align : justify;
+}
